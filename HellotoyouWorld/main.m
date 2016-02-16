@@ -9,6 +9,6 @@
 
 int main(int argc, const char * argv[]) {
     
-        NSLog(@"Hello to you World!");
+        NSLog(@"He's anti-cake");
    
 }
